@@ -1,0 +1,9 @@
+openai
+python-dotenv
+pikepdf
+Pillow
+flask
+pypinyin
+PyMuPDF
+aiohttp
+requests

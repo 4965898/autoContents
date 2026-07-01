@@ -1,0 +1,24 @@
+__pycache__/
+.venv/
+data/
+.DS_Store
+logs/
+todo.md
+tools/*.json
+tools/*.txt
+错误收集/
+contents_editor/*.pdf
+contents_editor/*.csv
+*.dtmp
+*.bkp
+mainprogress/\[editing\]llm_level_adjuster.py
+log.txt
+debug.py
+PDFTest
+testscript.py
+batch_*
+auth.key
+.claude
+# 敏感配置文件（含 API Key，请勿提交）
+.env
+static/llm_config.json
